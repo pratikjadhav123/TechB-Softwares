@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TNGL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a88bf1dd2067e5890a62644dfa1e84c455b5c1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TNGL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TNGL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

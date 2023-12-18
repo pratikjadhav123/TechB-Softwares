@@ -65,3 +65,4 @@ D:\TechB Softwares\TNGL\obj\Debug\net6.0\refint\TNGL.dll
 D:\TechB Softwares\TNGL\obj\Debug\net6.0\TNGL.pdb
 D:\TechB Softwares\TNGL\obj\Debug\net6.0\TNGL.genruntimeconfig.cache
 D:\TechB Softwares\TNGL\obj\Debug\net6.0\ref\TNGL.dll
+D:\TechB Softwares\TNGL\obj\Debug\net6.0\TNGL.sourcelink.json
